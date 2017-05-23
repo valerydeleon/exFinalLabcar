@@ -1,18 +1,25 @@
 #descarga{
     background-color: #ffce00;
-    padding: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 0;
     width: 100%;
-    align-content: center;
+    display: inline-flex;
+    justify-content: flex-start;
+    align-items: baseline;
 }
 
 .texto-descarga{
     color: #fff;
+    width: 100%;
+    height: 100%;
 }
 
 .rectangulo{
     background-color: transparent;
     height: 100%;
     border-style: solid;
+    border-left: none;
     border-color: #fff;
     border-width: 1px;
     padding: 3%;
