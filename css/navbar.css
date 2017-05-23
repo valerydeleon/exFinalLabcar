@@ -1,0 +1,28 @@
+body {
+    padding-top: 70px;
+}
+
+.nav-Lab {
+  width: 100%;
+  margin: 0;
+  padding: 1%;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-logo{
+    margin-bottom: 20px;
+    height: 100%;
+}
+
+.navegador{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-item {
+    color: #413f3f;
+}
