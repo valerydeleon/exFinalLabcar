@@ -1,0 +1,24 @@
+#formulario{
+    padding: 2% 10%;
+    background-color: #ffce00;
+    height: 490px;
+    color: #fff;
+}
+
+.input-tarifas{
+    background-color: #ffce00;
+    border-radius: 5px;
+    border-style: solid;
+    color: #fff;
+    width: 80%;
+}
+
+.partida{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.destino{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
