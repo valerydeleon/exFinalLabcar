@@ -1,0 +1,19 @@
+#descarga{
+    background-color: #ffce00;
+    padding: 5%;
+    width: 100%;
+    align-content: center;
+}
+
+.texto-descarga{
+    color: #fff;
+}
+
+.rectangulo{
+    background-color: transparent;
+    height: 100%;
+    border-style: solid;
+    border-color: #fff;
+    border-width: 1px;
+    padding: 3%;
+}
